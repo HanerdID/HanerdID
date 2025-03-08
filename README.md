@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a st
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ## 📊 GitHub Stats  
-![Fikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanerdID&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanerdID&layout=compact&theme=tokyonight)  
 
 ## 🔗 Connect with Me  
