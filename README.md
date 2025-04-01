@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a st
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanerdID&layout=compact&theme=tokyonight)  
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fikri-prasetya-nurhidayat-1aa52713a/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fikri-prasetya-nurhidayat/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanerdID)  
 
 ---
