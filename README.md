@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a st
 - 💡 I specialize in **React.js & Next.js** for creating interactive and scalable web applications  
 - 🤝 I’m looking to collaborate on **exciting frontend & fullstack projects**  
 - 💬 Ask me about **React, Next.js, and modern frontend development**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fikri-prasetya-nurhidayat-1aa52713a/) | [GitHub](https://github.com/HanerdID)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fikri-prasetya-nurhidayat/) | [GitHub](https://github.com/HanerdID)  
 - ⚡ Fun fact: **I enjoy exploring new web technologies and optimizing UI/UX for better user experience**  
 
 ## 🛠 Tech Stack  
